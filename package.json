@@ -1,0 +1,11 @@
+{
+    "name": "beinsports-addon",
+    "version": "1.0.0",
+    "main": "addon.js",
+    "dependencies": {
+        "stremio-addon-sdk": "^1.0.0"
+    },
+    "scripts": {
+        "start": "node addon.js"
+    }
+}
