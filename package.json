@@ -1,6 +1,9 @@
 {
     "name": "beinsports-addon",
     "version": "1.0.0",
+    "description": "A Stremio add-on for streaming beIN Sports channels 1–7.",
+    "author": "Your Name",
+    "license": "MIT",
     "main": "addon.js",
     "dependencies": {
         "stremio-addon-sdk": "^1.0.0"
